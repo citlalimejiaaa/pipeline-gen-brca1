@@ -1,0 +1,4 @@
+PIPELINE REPORT - GEN BRCA1 - LECTURA 2
+[PASS] Secuenciacion basica de calidad
+[WARN] Ligera variacion en contenido GC (45%)
+[PASS] Adaptadores removidos correctamente
