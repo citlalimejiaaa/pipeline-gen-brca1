@@ -1,0 +1,4 @@
+PIPELINE REPORT - GEN BRCA1 - LECTURA 1
+[PASS] Secuenciacion basica de calidad
+[PASS] Contenido GC balanceado (42%)
+[PASS] Sin secuencias duplicadas detectadas
